@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Pooh.
+I dont know to code.
 
 <!--
 **PluemDontKnowToCode/PluemDontKnowToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
